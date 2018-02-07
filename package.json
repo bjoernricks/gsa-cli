@@ -1,0 +1,15 @@
+{
+  "name": "gsa-cli",
+  "version": "1.0.0",
+  "description": "A GSA console line interface",
+  "main": "index.js",
+  "repository": "git@github.com:bjoernricks/gsa-cli.git",
+  "author": "Björn Ricks <bjoern.ricks@gmail.com>",
+  "license": "GPLv2+",
+  "private": true,
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "commander": "^2.14.1",
+    "node-fetch": "^2.0.0"
+  }
+}
